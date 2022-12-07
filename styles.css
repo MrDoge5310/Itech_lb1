@@ -1,0 +1,35 @@
+span.mass {
+    font-size: 0.5cm;
+}
+
+td {
+    background-color: rgb(7, 207, 191);
+    width: 2.5cm;
+    height: 2.5cm;
+    text-align: center;
+    font-size: 1cm;
+}
+
+th {
+    background-color: brown;
+    width: 2.5cm;
+    height: 2.5cm;
+    text-align: center;
+    font-size: 1cm;
+}
+
+body {
+    background-color: burlywood;
+}
+
+input {
+    background-color:cadetblue;
+}
+
+select {
+    background-color:cadetblue;
+}
+
+.buttons{
+    text-align: center;
+}
